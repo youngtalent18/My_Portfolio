@@ -24,7 +24,7 @@ const Projects = () => {
       image: Jumia,
       link: 'https://github.com/youngtalent18/Jumia-Mini',
       icon: <FaGithub/>,
-      live: "example.com"
+      live: ""
     },
     { 
       social: <FaTwitter />,
