@@ -27,7 +27,8 @@
   z-index: 999;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   border-bottom: 1px solid #b9b7b7;
-  backdrop-filter: blur(8px);
+  background-color: hsl(0, 0%, 96%);
+  color: hsl(0, 0%, 17%);
 }
 
 .header {
