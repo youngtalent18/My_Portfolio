@@ -486,3 +486,31 @@
   position: relative;
   margin-bottom: 40px;
 }
+
+/* Business */
+.b-name{
+  font-size: 20px;
+  font-weight: 700;
+  color: #464647;
+}
+.b-des{
+  font-size: 14px;
+  color: #666;
+  line-height: 1.5;
+  padding-inline: 30px;
+}
+
+.b-para .b-link{
+  color: red;
+  font-size: large;
+  text-decoration: underline;
+}
+.b-img{
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.b-span{
+  color: #43bdf1;
+}
