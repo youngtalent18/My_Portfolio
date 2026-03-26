@@ -31,7 +31,7 @@ const QuickB = () => {
             <p className='b-des'>{business.description}</p>
             {
               business.link && (
-                <p className='b-para'><a className='b-link' href={business.link} target="_blank" rel="noopener noreferrer">{business.aim}</a></p>
+                <p className='b-para'><a className='b-link' href={business.link} target="_blank" >{business.aim}</a></p>
               )
             }
             </div>
