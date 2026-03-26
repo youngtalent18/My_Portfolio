@@ -4,6 +4,7 @@ import About from "./Components/About"
 import profileImg from "./assets/favicon.ico"
 import Footer from "./Components/Footer"
 import Projects from "./Components/Projects"
+import QuickB from "./Components/QuickB"
 import Contact from "./Components/Contact"
 import { Toaster } from "react-hot-toast"
 
@@ -17,6 +18,7 @@ function App() {
         <Home />
         <About />
         <Projects />
+        <QuickB />
         <Contact/>
         <Footer />
     </div>
