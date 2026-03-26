@@ -1,4 +1,6 @@
 import React from 'react'
+import data from "../assets/data.png"
+import image from "../assets/image.png"
 
 const QuickB = () => {
   const businesses = [
@@ -7,14 +9,14 @@ const QuickB = () => {
       description: "Get affordable bundles of data to stay connected with your loved ones and the world around you.",
       link: "https://datatrade.store/data_plug",
       aim: "Get bundle",
-      img: "src/assets/data.png"
+      img: data
     },
     {
       name: "Byte Agent",
       description: " Join the Byte Agent team and earn money by selling your data with trusted partners. Your data, your rules.",
       link: "https://www.dataxpress.shop/register?referral_code=QXDFVN",
       aim: "Join Now",
-      img: "src/assets/image.png"
+      img: image
     }
   ];
 
