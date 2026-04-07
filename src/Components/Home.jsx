@@ -1,7 +1,6 @@
-import React from 'react'
 import profileImg from "../assets/favicon.ico"
 import { motion } from 'framer-motion'
-import { Code2Icon, DatabaseIcon, Globe, HandshakeIcon, Settings, Smartphone, UserCircle } from 'lucide-react'
+import { Code2Icon, DatabaseIcon, Globe, HandshakeIcon, Settings, Smartphone, } from 'lucide-react'
 
 const Home = () => {
   return (
